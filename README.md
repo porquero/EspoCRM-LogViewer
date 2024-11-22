@@ -27,3 +27,5 @@ DEV
 12345
 
 * Make sure that `php-error-log-viewer.ini` is writeable
+
+credits: https://github.com/schuhwerk/php-error-log-viewer
